@@ -1,0 +1,67 @@
+{   
+    "note_title" : "โน้ต",
+    "save" : "บันทึก",
+    "edit" : "แก้ไข",
+    "baht" : "บาท",
+    "delete" : "ลบ",
+    "pricePerWa": "ราคา/ตร.ว",
+    "titleGoToMap": "ดูแผนที่จากกรมที่ดิน",
+    "titleGoToDrawMap": "ดูแผนที่โจทย์ส่ง",
+    "toolsTitle": "เครื่องมือ",
+    "deleteBtn": "ลบ",
+    "nextRound": "นัดที่",
+    "date": "วันที่",
+    "jumnong" : "ติดจำนอง",
+    "salewith": "ขายรวม",
+    "saleWith2": "ขายรวมกับ", 
+    "deed_no" : "ที่ดินเลขที่",
+    "no." : "เลขที่",
+    "openSavedSearch" : "เปิดการค้นหาที่บันทึกไว้",
+    "openSavedSearchDone" : "กำลังดูการค้นหาที่บันทึกไว้",
+    "postSaveSearch" : "บันทึกการค้นหานี้",
+    "postSaveSearchDone" : "บันทึกการค้นหาแล้ว",
+    "tidJumnong": "ติดจำนอง",
+    "jumnongTid": "จำนองติด",
+    "notJumnong" : "ปลอดการจำนอง",
+    "landType": {
+        "title": "ที่ดิน", 
+        "other" : "N/A",
+        "0": "โฉนด", 
+        "1": "น.ส. 3 ก "
+    },
+    "debtType": {
+        "title": "ภาระ", 
+        "other" : "N/A",
+        "0": "<span>ปลอดภาระผูกพัน</span>", 
+        "1": "<span>ปลอดการจำนอง</span>",
+        "2": "<span class='textRed'>ติดจำนอง</span>"
+        
+    },
+    "saleStatus": {
+        "saleWith": "<strong class='textRed'>ขายรวม</strong><br/>",
+        "title": "สถานะ", 
+        "unknow" : "N/A",
+        "notSale" : "<strong class='textRed'>Unavailable</strong> (งดขาย/ขายแล้ว/ถอนการยึด/อื่นๆ)",
+        "0" : "Available", 
+        "1" : "<strong class='textRed'>ขายได้</strong>",
+        "2" : "<strong class='textRed'>งดขาย 4 นัด</strong>",
+        "3" : "<strong class='textRed'>งดขายไม่มีผู้สู้ราคา (4/4)</strong>", 
+        "4" : "<strong class='textRed'>งดขาย (4/4)</strong>",
+        "5" : "<strong class='textRed'>ถอนการยึด</strong> ",
+        "6" : "โจทก์แถลงงดขาย (4/4)"
+    },
+    "thead": {
+        "1" : "ล๊อตที่ - ชุดที่",
+        "2" : "ลำดับที่การขาย",
+        "3" : "หมายเลขคดี",
+        "4" : "ประเภททรัพย์",
+        "5" : "ไร่",
+        "6" : "งาน",
+        "7" : "ตรว",
+        "8" : "ราคาประเมิน",
+        "9" : "ตำบล",
+        "10": "อำเภอ",
+        "11": "จังหวัด"
+    }
+}
+
