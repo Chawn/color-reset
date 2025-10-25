@@ -2,7 +2,7 @@
 	"name": "Color Reset",
 	"version": "1.0.0",
 	"description": "Remove gray filter on web",
-	"permissions": ["storage", "alarms"],
+	"permissions": [],
 	"host_permissions": [
 		"*://*/*"
 	],
