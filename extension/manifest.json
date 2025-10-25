@@ -1,8 +1,8 @@
 {
 	"name": "Color Reset",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Remove gray filter on web",
-	"permissions": [],
+	"permissions": ["activeTab"],
 	"host_permissions": [
 		"*://*/*"
 	],
