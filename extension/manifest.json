@@ -1,6 +1,6 @@
 {
 	"name": "Color Reset",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Remove gray filter on web",
 	"permissions": [],
 	"host_permissions": [
